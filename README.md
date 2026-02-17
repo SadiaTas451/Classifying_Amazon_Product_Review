@@ -15,4 +15,4 @@ This project builds a deep learning text classifier that predicts Amazon product
 - pandas, numpy
 - scikit-learn
 
-## Project Structure (suggested)
+
